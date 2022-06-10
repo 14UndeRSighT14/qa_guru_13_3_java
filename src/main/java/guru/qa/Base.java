@@ -1,4 +1,4 @@
-package qa.guru;
+package guru.qa;
 
 public class Base {
     /* Примитивные типы данных */

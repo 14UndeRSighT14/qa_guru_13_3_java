@@ -1,4 +1,4 @@
-package qa.guru;
+package guru.qa;
 
 import java.util.Arrays;
 
